@@ -9,7 +9,7 @@ public class Main {
         t1.add(3);
         t2.add(4);
         t2.add(7);
-        t2.add(15);
+        
         //append(t1, t2);
         //merge(t1, t2);
         //mergeSorted(t1, t2);
